@@ -1,0 +1,8 @@
+theme = catppuccin macchiato
+font-family = "JetBrains Mono"
+font-size = 13
+background-blur = macos-glass-clear
+background-opacity = 0.95
+
+window-save-state = always
+
